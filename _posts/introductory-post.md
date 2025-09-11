@@ -14,6 +14,6 @@ My love for computers began in 2001 when my family got our first computer. I was
 ## Present Day
 Today, over two decades later, I am a Computer Science student in University. I find myself finally ready to dive in and understand how a computer really works. Studying Computer Science has not been easy and I realize now that there are many technical topics that are presented in a way that is hard to grasp when you do not have a technical background. My goal is to break down the topics that I find have been the most difficult to grasp as well as create and share projects that show how these technologies are applicable in the real world. You can expect posts about computer hardware, networking, programming, software engineering and database systems.
 
-I welcome connections from those in the IT industry, especially in Cloud and DevOps. You can connect with me on X or LinkedIn.
+I welcome connections from those in the IT industry, especially in Linux System Engineering. You can connect with me on X or LinkedIn.
 
 Thanks, Tavette.
